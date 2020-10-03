@@ -15,4 +15,4 @@ Big Data - Capstone Project
 
 ## Specialization created by
 
-!(https://ucsd.edu)[https://user-images.githubusercontent.com/63115543/94997175-1b274800-056f-11eb-8d4e-496d0670b9c0.jpg]
+!(UC San Diego)[https://user-images.githubusercontent.com/63115543/94997175-1b274800-056f-11eb-8d4e-496d0670b9c0.jpg]
