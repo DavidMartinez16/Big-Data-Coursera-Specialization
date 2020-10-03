@@ -6,12 +6,12 @@ Cousera online course, Big Data specilization, created by University of Californ
 
 This specilization contains 6 following courses:
 
-Introduction to Big Data
-Big Data Modeling and Management Systems
-Big Data Integration and Processing
-Machine Learning With Big Data
-Graph Analytics for Big Data
-Big Data - Capstone Project
+* Introduction to Big Data
+* Big Data Modeling and Management Systems
+* Big Data Integration and Processing
+* Machine Learning With Big Data
+* Graph Analytics for Big Data
+* Big Data - Capstone Project
 
 ## Specialization created by
 
